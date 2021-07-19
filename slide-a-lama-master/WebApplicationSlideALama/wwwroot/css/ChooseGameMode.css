@@ -1,0 +1,38 @@
+﻿#MenuChooseGameMode {
+    background-image: url("../img/InsideMenu.png");
+    height: auto;
+    width: auto;
+}
+
+    #MenuChooseGameMode > div {
+        position: relative;
+        max-width: 30%;
+    }
+
+        #MenuChooseGameMode > div > div:last-child {
+            position: absolute;
+            padding: 0 0 20% 35%;
+            left: 0;
+            bottom:0;
+            width:100%;
+        }
+        #MenuChooseGameMode > div > div > div {
+          padding-bottom:5%;
+        }
+        #MenuChooseGameMode > div > div > div > a {
+            text-align: center;
+            color: black;
+            text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+            text-decoration: none;
+        }
+
+            #MenuChooseGameMode > div > div > div > a:hover {
+                text-align: center;
+                color: #f09f01;
+                text-shadow: 2px 2px 0px rgba(255, 199, 13,0.3);
+                text-decoration: none;
+            }
+
+            #MenuChooseGameMode > div > div > div > a > h2 {
+                font-size: 4vmin;
+            }

@@ -1,0 +1,31 @@
+﻿@model SlideALamaModels
+@{
+    ViewData["Title"] = "Score";
+}
+
+<link href="~/css/Score.css" rel="stylesheet" />
+<link href="~/css/SiteShablon.css" rel="stylesheet" />
+
+<div id="Score">
+    <div class="container justify-content-between">
+        <div>
+            <div class="row">
+                <div class="col"><h2>Name</h2></div>
+                <div class="col"><h2>Score</h2></div>
+            </div>
+            @foreach (var score in Model.Scores)
+            {
+                <div class="row">
+                    <div class="col"><h3>@(score.Player)</h3></div>
+                    <div class="col"><h3>@(score.Points)</h3></div>
+                </div>
+
+            }
+            <div class="row ">
+                <div class="col">
+                    <a asp-area="" asp-controller="Home" asp-action="Index"><h2>Exit</h2></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

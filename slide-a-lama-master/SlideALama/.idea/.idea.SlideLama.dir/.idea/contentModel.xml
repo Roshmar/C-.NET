@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\roshmar\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\roshmar\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+    <e p="C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Cell.cs" t="Include" />
+      <e p="Entity" t="Include">
+        <e p="Comment.cs" t="Include" />
+        <e p="Hodnotenie.cs" t="Include" />
+        <e p="Score.cs" t="Include" />
+      </e>
+      <e p="GameMode.cs" t="Include" />
+      <e p="GameSource.cs" t="Include" />
+      <e p="LeaveComment.cs" t="Include" />
+      <e p="MenuInGame.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="SlideLama.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Service" t="Include">
+        <e p="CommentServiceFile.cs" t="Include" />
+        <e p="HodnotenieServiceFile.cs" t="Include" />
+        <e p="ICommentService.cs" t="Include" />
+        <e p="IHodnotenieService.cs" t="Include" />
+        <e p="IScoreService.cs" t="Include" />
+        <e p="ScoreServiceFile.cs" t="Include" />
+      </e>
+      <e p="SlideLama.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

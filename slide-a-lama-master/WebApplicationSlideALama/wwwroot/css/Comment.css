@@ -1,0 +1,69 @@
+﻿
+#Comment {
+    background-image: url("../img/InsideMenu.png");
+    height: auto;
+    width: auto;
+}
+
+    #Comment > div {
+        background-image: url(../img/ScrollHorizont.png);
+        background-repeat: no-repeat;
+        background-position: top center;
+        background-size: cover,contain;
+        min-height: 600px;
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+        #Comment > div > div {
+            padding: 12.5% 0 0 10%;
+        }
+
+            #Comment > div > div > div {
+                height: 100%;
+                width: 90%;
+                padding-top: 1%;
+            }
+
+                #Comment > div > div > div:last-child {
+                    text-align: center;
+                    padding: 0 0 0 0;
+                    margin: 0;
+                    border-top: solid 2px rgba(0,0,0,0.2);
+                }
+
+                #Comment > div > div > div:first-child {
+                    height: 300px;
+                    overflow: scroll;
+                    overflow-x: hidden;
+                    overflow-y: hidden;
+                    
+                }
+
+                    #Comment > div > div > div:first-child > div {
+                        border-top: solid 2px rgba(0,0,0,0.2);
+                    }
+
+                #Comment > div > div > div > div > h2 {
+                    color: black;
+                    text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+                    text-decoration: none;
+                    font-size: 4vmin;
+                }
+
+                #Comment > div > div > div > div > a {
+                    color: black;
+                    text-shadow: 3px 3px 0px rgba(0,0,0,0.2);
+                    text-decoration: none;
+                }
+
+                    #Comment > div > div > div > div > a:hover {
+                        color: #f09f01;
+                        text-shadow: 2px 2px 0px rgba(255, 199, 13,0.3);
+                        text-decoration: none;
+                    }
+
+                    #Comment > div > div > div > div > a > h2 {
+                        font-size: 4vmin;
+                    }

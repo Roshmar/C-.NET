@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Leave comment";
+}
+    <link href="~/css/SiteShablon.css" rel="stylesheet" />
+    <link href="~/css/LeaveComment.css" rel="stylesheet" />
+    <script src="~/js/JsMain.js"></script>
+
+    <div id="LeaveComment">
+        <div class="container justify-content-between">
+            <div>
+                <form name="CommentarForm" action="" onsubmit="return validateForm()" method="post">
+                    <div class="row">
+                        <div class="col"><h5><label for="NameComment">Name : </label><input id="NameComment" placeholder="Your name" class="InputForm" name="name"></h5></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><h5><label for="CountryComment">Country : </label><input id="CountryComment" placeholder="Country" class="InputForm" name="country" ></h5></div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><h5><label for="AgeComment">Age : </label><input id="AgeComment" placeholder="18" class="InputForm" name="age" ></h5></div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div id="reviewStars-input">
+                                <input id="star-4" type="radio" name="reviewStars" value="5" />
+                                <label title="gorgeous" for="star-4"></label>
+
+                                <input id="star-3" type="radio" name="reviewStars" value="4" />
+                                <label title="good" for="star-3"></label>
+
+                                <input id="star-2" type="radio" name="reviewStars" value="3" />
+                                <label title="regular" for="star-2"></label>
+
+                                <input id="star-1" type="radio" name="reviewStars" value="2" />
+                                <label title="poor" for="star-1"></label>
+
+                                <input id="star-0" type="radio" name="reviewStars" value="1" />
+                                <label title="bad" for="star-0"></label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col"><h5><textarea name="comment" id="comment" cols="64" rows="6" placeholder="Commentar" class="InputForm" > </textarea></h5></div>
+                    </div>
+                    <div class="row ">
+                        <div class="col">
+                            <button type="submit" class="CommentButton" id="SubmitButton" style=" border: solid 3px rgba(121,68,34,1);border-radius: 8px; background-color: rgba(242,213,119,1);width:70px;">Submit</button>
+                        </div>
+                        <div class="col">
+                            <button  asp-controller="Home" asp-action="Index" id="ExitButton" style="border: solid 3px rgba(121,68,34,1);border-radius: 8px; background-color: rgba(242,213,119,1);width:70px;">Exit</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>

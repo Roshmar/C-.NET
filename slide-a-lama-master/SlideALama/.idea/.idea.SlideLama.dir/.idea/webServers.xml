@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="02308765-6ca4-404c-8bb4-da1d9284011a" name="Roshmar" url="https://git.kpi.fei.tuke.sk/martin.roshko">
+        <fileTransfer host="https://git.kpi.fei.tuke.sk/martin.roshko" port="21" rootFolder="AAAAC3NzaC1lZDI1NTE5AAAAIDj0ZkypfbNNqQv6SYJmTfuUyZRWPhQMXZJ9dvbvLApu">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

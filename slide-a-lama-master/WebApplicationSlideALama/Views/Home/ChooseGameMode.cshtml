@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "ChooseGameMode";
+}
+    <link href="~/css/ChooseGameMode.css" rel="stylesheet" />
+    <link href="~/css/SiteShablon.css" rel="stylesheet" />
+
+    <div id="MenuChooseGameMode">
+        <div class="container justify-content-md-center">
+            <div class="row">
+                <div class="col">
+                    <img src="~/img/Slide_A_Lama.png" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <img src="~/img/Scroll.png" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="row align-self-center">
+                <div>
+                    <a asp-area="" asp-controller="Home" asp-action="SingleGame"><h2>One player</h2></a>
+                    <a asp-area="" asp-controller="Home" asp-action="MultiGame"><h2>Two players</h2></a>
+                    <a asp-area="" asp-controller="Home" asp-action="Setting"><h2>Settings</h2></a>
+                    <a asp-area="" asp-controller="Home" asp-action="Index"><h2>Exit</h2></a>
+                </div>
+            </div>
+        </div>
+    </div>

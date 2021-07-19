@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Slide-A-Lama";
+}
+
+<link href="~/css/Menu.css" rel="stylesheet" />
+<link href="~/css/SiteShablon.css" rel="stylesheet" />
+
+<div id="Menu">
+    <div class="container justify-content-md-center">
+            <div class="row">
+                <div class="col">
+                    <img src="~/img/Slide_A_Lama.png" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <img src="~/img/Scroll.png" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="row ">
+                <div id="MainMenu">
+                    <a asp-area="" asp-controller="Home" asp-action="ChooseGameMode"><h2>Play Game</h2></a>
+                    <a asp-area="" asp-controller="Home" asp-action="Score"><h2>Score</h2></a>
+                    <a asp-area="" asp-controller="Home" asp-action="Comment"><h2>Comments</h2></a>
+                    
+                </div>
+            </div>
+    </div>
+</div>

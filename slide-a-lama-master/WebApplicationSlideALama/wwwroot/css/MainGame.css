@@ -1,0 +1,212 @@
+﻿#MainGame {
+   position:center;
+    width: 100%;
+    bottom: 10%;
+    overflow-y:auto;
+    z-index:1;
+    margin:0 0 0 0;
+    padding:0 0 0 0;
+}
+header {
+    z-index:2;
+}
+.mainContainer {
+    margin:0 0 0 0;
+    padding:0 0 0 0;
+    width:100%;
+}
+main {
+    background-image: url("../img/MainGame.png");
+   background-color:rgb(122,135,56);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size:contain,cover;
+    height: auto;
+    display: block;
+    z-index:1;
+}
+    main > div {
+    height:100%;
+    }
+.GameBoard {
+    padding:0 0 0 0;
+    background-image: url("../img/MainBoard.png");
+    background-repeat: no-repeat;
+    background-position: bottom,center;
+    background-size: 63% 90%,cover;
+    z-index: 1;
+    position:center;
+    max-width: 70%;
+    left: 50%;
+    right: auto;
+    
+}
+    .GameBoard row {
+        max-width: 80%;
+    }
+.Gcol {
+    height: 90px;
+    max-width: 72px;
+   
+    border-radius: 10%;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    
+}
+.Tcol {
+    height: 90px;
+    max-width: 140px;
+   
+    border-radius: 10%;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+.Bcol {
+    height: 90px;
+    max-width: 70px;
+  
+    border-radius: 10%;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+.ActiveCol {
+    display: block;
+    width: 100%;
+    height: 100%;
+   
+    border-radius: 10%;
+}
+    .ActiveCol:hover {
+        border-radius: 10%;
+        background-color: antiquewhite;
+        opacity: 0.5;
+        display: block;
+        width: 100%;
+        height: 100%;
+       
+    }
+.ScoreBlock1 {
+    top: 8%;
+    position: absolute;
+    left: 1%;
+    width: 20%;
+    height: 40px;
+    box-shadow: rgb(206, 207, 122),2px, 2px,inset;
+    z-index: 1;
+    padding: 0 0 0 0;
+   
+}
+
+.ScoreBlock2 {
+    
+    top: 8%;
+    position: absolute;
+    right: 1%;
+    width: 20%;
+    height: 40px;
+    box-shadow: rgb(206, 207, 122),2px, 2px,inset;
+    z-index: 1;
+    padding: 0 0 0 0;
+}
+.resultText1 {
+    font-size: 3vmin;
+    padding-top: 40%;
+   
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.resultText2 {
+    font-size: 3vmin;
+    padding-top: 40%;
+    
+    text-align: center;
+    font-weight:bold;
+    text-decoration: none;
+}
+#NameFirstPlayer, #NameSecondPlayer {
+    padding: 0 0 0 0;
+    border: solid 3px rgb(206, 207, 122);
+    background-color: rgba(30,49,21,1);
+    background-size: contain,cover;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    text-align:center;
+}
+#ScoreFirstPlayer, #ScoreSecondPlayer {
+    background-color: rgba(41,40,30,0.9);
+    padding: 0 0 0 0;
+    border: solid 3px rgb(206, 207, 122);
+    background-repeat: no-repeat;
+    text-align:center;
+}
+#IconFirstPlayer {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding: 0 0 0 0;
+    height: 100%;
+    width: 100%;
+   
+    background-position: center;
+    background-size: contain,cover;
+    background-repeat: no-repeat;
+    border: solid 3px rgb(206, 207, 122);
+    background-color: rgb(206, 207, 122);
+}
+#IconSecondPlayer {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding: 0 0 0 0;
+    height: 100%;
+    width: 100%;
+    
+    background-position: center;
+    background-size: contain,cover;
+    background-repeat: no-repeat;
+    border: solid 3px rgb(206, 207, 122);
+    background-color: rgb(206, 207, 122);
+}
+
+#cell26 {
+    position: absolute;
+    right: 3%;
+    top: 25%;
+    height: 90px;
+    max-width: 72px;
+    border: solid 1.5px black;
+    border-radius: 10%;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+   
+}
+#cell25 {
+    margin: 0 0 0 0;
+    position: absolute;
+    right: 5%;
+    top: 45%;
+    height: 90px;
+    max-width: 72px;
+    border: solid 1.5px black;
+    border-radius: 10%;
+    padding: 0 0 0 0;
+}
+.NextCell2 {
+    bottom: -20px;
+    position: absolute;
+    height: 20px;
+    max-width: 72px;
+    border: solid 6px rgb(253,203,59);
+    border-radius: 8px;
+    
+}
+.NextCell1 {
+    bottom: -20px;
+    position: absolute;
+    height: 20px;
+    max-width: 72px;
+    border: solid 6px rgb(253,203,59);
+    border-radius: 8px;
+    
+}

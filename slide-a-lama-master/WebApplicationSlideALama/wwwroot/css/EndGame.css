@@ -1,0 +1,25 @@
+﻿#EndGame {
+    position:absolute;
+    z-index:5;
+    height:auto;
+    min-height:90%;
+    width:100%;
+}
+    #EndGame > div:first-child, #EndGame > div:last-child {
+        bottom:5%;
+    }
+.winner {
+
+    top:0;
+    text-align:center;
+    align-content:center;
+    align-items:center;
+}
+    .winner div {
+        top:0;
+        
+    }
+.fiarwork {
+    border:0;
+   
+}

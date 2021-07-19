@@ -1,0 +1,148 @@
+C:\Users\roshm\RiderProjects\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.exe
+C:\Users\roshm\RiderProjects\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.deps.json
+C:\Users\roshm\RiderProjects\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.runtimeconfig.json
+C:\Users\roshm\RiderProjects\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.runtimeconfig.dev.json
+C:\Users\roshm\RiderProjects\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.dll
+C:\Users\roshm\RiderProjects\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.pdb
+C:\Users\roshm\RiderProjects\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.csprojAssemblyReference.cache
+C:\Users\roshm\RiderProjects\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.AssemblyInfoInputs.cache
+C:\Users\roshm\RiderProjects\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.AssemblyInfo.cs
+C:\Users\roshm\RiderProjects\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.dll
+C:\Users\roshm\RiderProjects\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.pdb
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.exe
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.deps.json
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.runtimeconfig.json
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.runtimeconfig.dev.json
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\SlideLama.pdb
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.csprojAssemblyReference.cache
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.AssemblyInfoInputs.cache
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.AssemblyInfo.cs
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.pdb
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.genruntimeconfig.cache
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.csproj.CopyComplete
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\roshmar\Desktop\tuke 2\.Net\SlideLama\SlideLama\obj\Debug\netcoreapp3.1\SlideLama.csproj.CoreCompileInputs.cache
+C:\Users\roshmar\Source\Repos\slide-a-lama\obj\Debug\netcoreapp3.1\SlideLama.csprojAssemblyReference.cache
+C:\Users\roshmar\Source\Repos\slide-a-lama\obj\Debug\netcoreapp3.1\SlideLama.AssemblyInfoInputs.cache
+C:\Users\roshmar\Source\Repos\slide-a-lama\obj\Debug\netcoreapp3.1\SlideLama.AssemblyInfo.cs
+C:\Users\roshmar\Source\Repos\slide-a-lama\obj\Debug\netcoreapp3.1\SlideLama.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\obj\Debug\netcoreapp3.1\SlideLama.pdb
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\SlideLama.exe
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\SlideLama.deps.json
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\SlideLama.runtimeconfig.json
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\SlideLama.runtimeconfig.dev.json
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\SlideLama.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\SlideLama.pdb
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\obj\Debug\netcoreapp3.1\SlideLama.csproj.CopyComplete
+C:\Users\roshmar\Source\Repos\slide-a-lama\obj\Debug\netcoreapp3.1\SlideLama.genruntimeconfig.cache
+C:\Users\roshmar\Source\Repos\slide-a-lama\obj\Debug\netcoreapp3.1\SlideLama.csproj.CoreCompileInputs.cache
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\SlideLama.exe
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\SlideLama.deps.json
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\SlideLama.runtimeconfig.json
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\SlideLama.runtimeconfig.dev.json
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\SlideLama.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\SlideLama.pdb
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\obj\Debug\netcoreapp3.1\SlideLama.csproj.CoreCompileInputs.cache
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\obj\Debug\netcoreapp3.1\SlideLama.AssemblyInfoInputs.cache
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\obj\Debug\netcoreapp3.1\SlideLama.AssemblyInfo.cs
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\obj\Debug\netcoreapp3.1\SlideLama.csproj.CopyComplete
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\obj\Debug\netcoreapp3.1\SlideLama.dll
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\obj\Debug\netcoreapp3.1\SlideLama.pdb
+C:\Users\roshmar\Source\Repos\slide-a-lama\SlideALama\obj\Debug\netcoreapp3.1\SlideLama.genruntimeconfig.cache

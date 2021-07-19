@@ -1,0 +1,110 @@
+﻿@model SlideALamaModels
+@{
+    ViewData["Title"] = "EndGame";
+}
+
+<link href="~/css/MainGame.css" rel="stylesheet" />
+<link href="~/css/EndGame.css" rel="stylesheet" />
+
+
+
+@{
+    var score = Model.gameSource;
+
+    var gameMode = Model.gameMode;
+
+
+
+
+
+
+    <div class="row ScoreBlock1">
+        <div class="col-6" id="NameFirstPlayer"><span class="resultText1" style="color:@(gameMode.Get_firstplayerColor());">@(gameMode.Get_nameOfFirstPlayer())</span></div>
+        <div class="col-4" id="ScoreFirstPlayer"><span class="resultText1" style="color:@(gameMode.Get_firstplayerColor());">@(gameMode.Get_score_of_first_player().ToString())</span></div>
+        <div class="col-2" id="IconFirstPlayer" style="background-image:@(gameMode.Get_IconFirstPlayer())"></div>
+    </div>
+    <div class="row ScoreBlock2">
+        <div class="col-6" id="NameSecondPlayer"><span class="resultText2" style="color:@(gameMode.Get_secondplayerColor());">@(gameMode.Get_nameOfSecondPlayer())</span></div>
+        <div class="col-4" id="ScoreSecondPlayer"><span class="resultText2" style="color:@(gameMode.Get_secondplayerColor());">@(gameMode.Get_score_of_second_player().ToString())</span></div>
+        <div class="col-2" id="IconSecondPlayer" style="background-image:@(gameMode.Get_IconSecondPlayer())"></div>
+    </div>
+
+    <div class="col" id="cell26" img-value="@(score.Get_playerNumb2())"><div class="col NextCell1" style="background-color:@(gameMode.Get_NowPlayerColor2());"></div></div>
+
+
+    <div class="col" id="cell25" img-value="@(score.Get_playerNumb1())"><div class="col NextCell2" style="background-color:@(gameMode.Get_NowPlayerColor1());"></div></div>
+
+    <div id="EndGame" class="row">
+        <div class="col fiarwork align-self-end"><img src="~/img/2r67.gif" alt="Пример" style="width:280px; height:250px;" class="img-fluid"></div>
+        <div class=" winner" style="top:0;">
+            <div><img src="~/img/Winner.png" alt="Alternate Text" /></div>
+            <div><a type="button" asp-controller="Home" asp-action="ChooseGameMode" style="border: solid 3px rgb(242,242,242);border-radius: 8px; background-color: rgb(153,0,153);color:rgb(242,242,242);text-align:center;margin-bottom:3%; text-decoration:none;padding:5px 5px 5px 5px;"><h2>Restart</h2></a></div>
+            <div><a type="button" asp-controller="Home" asp-action="Index"  style="border: solid 3px rgb(242,242,242);border-radius: 8px; background-color: rgb(153,0,153);width:100px;color:rgb(242,242,242);text-align:center;text-decoration:none;padding:5px 5px 5px 5px;"><h2>Exit</h2></a></div>
+        </div>
+        <div class="col align-self-end"><img src="~/img/2r67.gif" alt="Пример" style="width:280px; height:250px;" class="img-fluid"></div>
+    </div>
+    <div id="MainGame">
+
+
+        <div class="container GameBoard justify-content-center">
+            <div class="row align-items-center justify-content-center">
+
+                <div class="col Bcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="2" asp-route-rowOrColumn="1"> </a></div>
+                <div class="col Bcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="2" asp-route-rowOrColumn="2"> </a></div>
+                <div class="col Bcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="2" asp-route-rowOrColumn="3"> </a></div>
+                <div class="col Bcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="2" asp-route-rowOrColumn="4"> </a></div>
+                <div class="col Bcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="2" asp-route-rowOrColumn="5"> </a></div>
+
+            </div>
+            <div class="row align-items-center justify-content-center">
+                <div class="col Tcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="1" asp-route-rowOrColumn="1"> </a></div>
+                <div class="col Gcol" id="cell0" img-value="@(score.map[0, 0].Get_value())"></div>
+                <div class="col Gcol" id="cell1" img-value="@(score.map[0, 1].Get_value())"></div>
+                <div class="col Gcol" id="cell2" img-value="@(score.map[0, 2].Get_value())"></div>
+                <div class="col Gcol" id="cell3" img-value="@(score.map[0, 3].Get_value())"></div>
+                <div class="col Gcol" id="cell4" img-value="@(score.map[0, 4].Get_value())"></div>
+                <div class="col Tcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="3" asp-route-rowOrColumn="1"> </a></div>
+            </div>
+            <div class="row align-items-center justify-content-center">
+                <div class="col Tcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="1" asp-route-rowOrColumn="2"> </a></div>
+                <div class="col Gcol" id="cell5" img-value="@(score.map[1, 0].Get_value())"></div>
+                <div class="col Gcol" id="cell6" img-value="@(score.map[1, 1].Get_value())"></div>
+                <div class="col Gcol" id="cell7" img-value="@(score.map[1, 2].Get_value())"></div>
+                <div class="col Gcol" id="cell8" img-value="@(score.map[1, 3].Get_value())"></div>
+                <div class="col Gcol" id="cell9" img-value="@(score.map[1, 4].Get_value())"></div>
+                <div class="col Tcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="3" asp-route-rowOrColumn="2"> </a></div>
+            </div>
+            <div class="row align-items-center justify-content-center">
+                <div class="col Tcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="1" asp-route-rowOrColumn="3"> </a></div>
+                <div class="col Gcol" id="cell10" img-value="@(score.map[2, 0].Get_value())"></div>
+                <div class="col Gcol" id="cell11" img-value="@(score.map[2, 1].Get_value())"></div>
+                <div class="col Gcol" id="cell12" img-value="@(score.map[2, 2].Get_value())"></div>
+                <div class="col Gcol" id="cell13" img-value="@(score.map[2, 3].Get_value())"></div>
+                <div class="col Gcol" id="cell14" img-value="@(score.map[2, 4].Get_value())"></div>
+                <div class="col Tcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="3" asp-route-rowOrColumn="3"> </a></div>
+            </div>
+            <div class="row align-items-center justify-content-center">
+                <div class="col Tcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="1" asp-route-rowOrColumn="4"> </a></div>
+                <div class="col Gcol" id="cell15" img-value="@(score.map[3, 0].Get_value())"></div>
+                <div class="col Gcol" id="cell16" img-value="@(score.map[3, 1].Get_value())"></div>
+                <div class="col Gcol" id="cell17" img-value="@(score.map[3, 2].Get_value())"></div>
+                <div class="col Gcol" id="cell18" img-value="@(score.map[3, 3].Get_value())"></div>
+                <div class="col Gcol" id="cell19" img-value="@(score.map[3, 4].Get_value())"></div>
+                <div class="col Tcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="3" asp-route-rowOrColumn="4"> </a></div>
+            </div>
+            <div class="row align-items-center justify-content-center" style="padding-bottom:130px;">
+                <div class="col Tcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="1" asp-route-rowOrColumn="5"> </a></div>
+                <div class="col Gcol" id="cell20" img-value="@(score.map[4, 0].Get_value())"></div>
+                <div class="col Gcol" id="cell21" img-value="@(score.map[4, 1].Get_value())"></div>
+                <div class="col Gcol" id="cell22" img-value="@(score.map[4, 2].Get_value())"></div>
+                <div class="col Gcol" id="cell23" img-value="@(score.map[4, 3].Get_value())"></div>
+                <div class="col Gcol" id="cell24" img-value="@(score.map[4, 4].Get_value())"></div>
+                <div class="col Tcol " onclick="SetBacground()"><a class="ActiveCol" asp-area="" asp-controller="Home" asp-action="UpdateMove" asp-route-direction="3" asp-route-rowOrColumn="5"> </a></div>
+
+            </div>
+        </div>
+
+    </div>
+}
+<script src="~/js/MainGame.js"></script>
+

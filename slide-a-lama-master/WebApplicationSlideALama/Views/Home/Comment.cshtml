@@ -1,0 +1,33 @@
+﻿@model SlideALamaModels
+@{
+    ViewData["Title"] = "Comment";
+}
+
+<link href="~/css/Comment.css" rel="stylesheet" />
+<link href="~/css/SiteShablon.css" rel="stylesheet" />
+
+<div id="Comment">
+    <div class="container justify-content-between">
+        <div>
+            <div>
+            @foreach (var comment in Model.Comments)
+            {
+                <div class="row">
+                    <div class="col">
+                        <h4>@(comment.PlayerName) @(comment.PlayerAge), @(comment.PlayerCountry):</h4>
+                        <h5>@(comment.PlayerComment)  </h5>
+                    </div>
+                </div>
+            }
+            </div>
+            <div class="row ">
+                <div class="col">
+                    <a asp-area="" asp-controller="Home" asp-action="LeaveComment"><h2>Leave comment</h2></a>
+                </div>
+                <div class="col">
+                    <a asp-area="" asp-controller="Home" asp-action="Index"><h2>Exit</h2></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
